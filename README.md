@@ -20,7 +20,7 @@ Here is the table of contents of our project. You may use it to explore the whol
 In this project, we will explore the features of SwiperJS.
 
 What we have done in the recent times:
-* [x] Create a horizontal slide.
+* [x] Create a horizontal slide with fade effects and navigation arrows.
 
 <p align="right"><a href="#-project-title">🔼</a></p>
 <!-- END About Project -->
