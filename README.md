@@ -1,6 +1,6 @@
 <!-- START Project Title -->
 ## 📓 Project Title
-Explore SwiperJS. 
+To Explore SwiperJS.
 <!-- END Project Title -->
 
 <!-- START Table Of Contents -->
@@ -47,3 +47,13 @@ A list of **technology stack** that we applied in this project. There are as lis
 
 <p align="right"><a href="#-project-title">🔼</a></p>
 <!-- END Technology Stack -->
+
+<!-- START References -->
+## 🔎 References
+This is a list of references that we found quite helpful in the contribution to this project.
+1. SwiperJS Navigation With TS: [Click here](https://github.com/nolimits4web/swiper/issues/3855)
+2. SwiperJS React Documentation: [Click here](https://swiperjs.com/react)
+3. SwiperJS API Documentation: [Click here](https://swiperjs.com/swiper-api)
+   
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END References -->
