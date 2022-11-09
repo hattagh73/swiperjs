@@ -11,6 +11,7 @@ Here is the table of contents of our project. You may use it to explore the whol
 - [ToC](#-table-of-contents)
 - [About Project](#-about-project)
 - [Technology Stack](#-technology-stack)
+- [References](#-references)
 
 <p align="right"><a href="#-project-title">🔼</a></p>
 <!-- END Table Of Contents -->
